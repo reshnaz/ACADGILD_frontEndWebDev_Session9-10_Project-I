@@ -4,7 +4,7 @@
 Movie App / IMDB App  
   
 ## Project Description
-This application allows users to add movie information to the database and preview it's information. Adding a new movie takes the following input parameters:  
+This application allows users to add movie information and preview the same. Adding a new movie takes the following input parameters:  
 Movie Name, Movie Rating, Movie Release Date, Movie Description & Movie Image URL.  
   
 ## App Usage/Flow of App
@@ -12,7 +12,7 @@ On running the app for the first time & accessing the home page, the following c
   
 ### Home Page (http://localhost:4200/movieHome):  
 1. IMDB Icon: Present constantly on all pages of the app. Clicking this form anywhere will navigate user to home page.  
-2. "Add a movie" button: Clicking on this, will navigate the user to a page(http://localhost:4200/addMovie) where new movie information can be entered and added to the database.  
+2. "Add a movie" button: Clicking on this, will navigate the user to a page(http://localhost:4200/addMovie) where new movie information can be entered and added.  
 3. A jumbotron stating "No Movie Data Available".  
 4. A search bar with a "Search Movies" placeholder.  
   
